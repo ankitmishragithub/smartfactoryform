@@ -1,0 +1,25 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : [{"_id":"68806d812fb0e3c28196b4e5","schemaJson":[{"id":"form-folder","type":"folderName
+                    ","label":"test2"},{"id":"form-heading","type":"heading","label":"ddd"},{"id":"17532467
+                    94453","type":"number","la...
+RawContent        : HTTP/1.1 200 OK
+                    Access-Control-Allow-Origin: *
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 8203
+                    Content-Type: application/json; charset=utf-8
+                    Date: Wed, 23 Jul 2025 09:25:21 GMT...
+Forms             : {}
+Headers           : {[Access-Control-Allow-Origin, *], [Connection, keep-alive], [Keep-Alive, timeout=5], 
+                    [Content-Length, 8203]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : System.__ComObject
+RawContentLength  : 8203
+
+
+
